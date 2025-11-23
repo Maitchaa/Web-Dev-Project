@@ -1,6 +1,6 @@
 -- SQL instructions
 --
--- Database: `teachers`
+-- Database: `plants`
 --
 
 --
